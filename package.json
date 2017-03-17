@@ -1,0 +1,25 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "This is a travel program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "travel"
+  ],
+  "author": "chenhw",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-less": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
